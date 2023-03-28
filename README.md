@@ -1,11 +1,12 @@
+<img src="https://www.rlogical.com/wp-content/uploads/2023/03/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.webp">
 <h1 align="center">Hi 👋, I'm Vishva</h1>
 <h3 align="center">A passionate MernStack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishva0903" alt="vishva0903" /></a> </p>
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m currently working on **MernStack**
 
-- 💬 Ask me about **Html,Css,c,Mysql,Nodejs,Express**
+- 💬 Ask me about **Html,Css,C,Mysql,Nodejs,MongoDb,React,Express**
 
 - 📫 How to reach me **vishva090300@gmail.com**
 
