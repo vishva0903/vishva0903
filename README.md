@@ -1,4 +1,4 @@
-<img src="https://www.rlogical.com/wp-content/uploads/2023/03/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.webp">
+<img src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350"></img>
 <h1 align="center">Hi 👋, I'm Vishva</h1>
 <h3 align="center">A passionate MernStack developer from India</h3>
 
